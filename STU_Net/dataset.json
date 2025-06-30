@@ -1,0 +1,24 @@
+{
+    "channel_names": {
+        "0": "MRI"
+    },
+    "labels": {
+        "background": 0,
+        "class_1": 1,
+        "class_2": 2,
+        "class_3": 3,
+        "class_4": 4,
+        "class_5": 5,
+        "class_6": 6,
+        "class_7": 7,
+        "class_8": 8,
+        "class_9": 9,
+        "class_10":10, 
+        "class_11":11,
+        "class_12": 12
+    },
+    "numTraining": 25,
+    "file_ending": ".nii.gz",
+    "name": "Dataset001_STS25",
+    "description": "STS25 dataset for medical image segmentation"
+}
